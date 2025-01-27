@@ -1,0 +1,6 @@
+cd
+ssh-keygen
+cat
+cut
+sort
+wc
